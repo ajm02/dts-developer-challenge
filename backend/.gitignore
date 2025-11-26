@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+
+# Environments
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Uvicorn logs
+*.log
